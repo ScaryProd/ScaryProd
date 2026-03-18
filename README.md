@@ -1,7 +1,7 @@
 # Hey, I'm Alvie
 
 Full Stack Engineer with 5+ years building enterprise applications for 
-clients like Disney Parks and W.L. Gore
+high profile corporate clients.
 
 ### 🛠 Tech I work with
 **·Proficient:** React, Angular, TypeScript, Node.js, C#, .NET, SQL/NoSQL, CI/CD  
