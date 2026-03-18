@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Alvie
 
-<!--
-**ScaryProd/ScaryProd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer with 5+ years building enterprise applications for 
+clients like Disney Parks and W.L. Gore
 
-Here are some ideas to get you started:
+### 🛠 Tech I work with
+**·Proficient:** React, Angular, TypeScript, Node.js, C#, .NET, SQL/NoSQL, CI/CD  
+**·Knowledgeable:** AWS, Cloudflare Workers, Next.js, React Native, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 EnControl
+I co-founded [EnControl](https://encontrol.dev) — a 400+ member game developer 
+community in Monterrey, Mexico. We host workshops, showcases, and events, and 
+I built the community platform solo in React.
+
+### 📫 Find me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alvarofsantana-blue)](https://linkedin.com/in/alvarofsantana)
